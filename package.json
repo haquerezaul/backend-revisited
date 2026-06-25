@@ -1,0 +1,11 @@
+{
+  "name": "backend-revisited",
+  "version": "1.0.0",
+  "description": "a revision walkover on backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rezaul Haque",
+  "license": "ISC"
+}
